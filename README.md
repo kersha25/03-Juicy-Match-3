@@ -1,8 +1,8 @@
-# Exercise-03d-Shaders
+# 03-Juicy-Match-3
 
-Exercise for MSCH-C220, 30 September 2021
+Project for MSCH-C220, 9 October 2021
 
-Adding several shaders and a WorldEnvironment to a simple match-3 game.
+Making a simple match-3 game juicy.
 
 ## To play
 
@@ -12,6 +12,7 @@ Select and drag tiles using the mouse.
 ## Implementation
 
 Built using Godot 3.3.3
+Adds features like a soundtrack, a sound effect when piece is moved, changing colors in the background, particles when selected, elements falling off screen when matched, animation when dying, squeeze and stretch in falling, and changing colors when selected.
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
@@ -22,6 +23,8 @@ Built using Godot 3.3.3
  * [Godot 2D fire shader](https://godotshaders.com/shader/2d-fire/)
  * [Godot Clouds in motion shader](https://godotshaders.com/shader/clouds-in-motion/)
  * [GDQuest Visual Shader Editor in Godot 3.1: Dissolve Shader (tutorial)](https://www.youtube.com/watch?v=sf_Dc4ew3eM)
+ * https://patrickdearteaga.com/
+ * https://freesound.org/people/plasterbrain/sounds/399093/
 
 ## Future Development
 
@@ -30,3 +33,4 @@ None
 ## Created by 
 
 Anastasia Kersh
+```
